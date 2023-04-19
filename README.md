@@ -4,9 +4,17 @@ This is my Python Banking Application that I created in my object oriented pytho
 This application:
 
 -Allows user to create and login to account
+
+
 -View account summary
+
+
 -Deposit virtual money
+
+
 -Withdraw virtual money with a fee
+
+
 -Logout account
 
 
