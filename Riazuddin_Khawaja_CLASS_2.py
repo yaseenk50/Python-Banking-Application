@@ -1,4 +1,6 @@
+#not the main file, go to GUI(2) file where the code runs from
 #this is for project 
+
 class Bank(object):
     
     accountList=[] #holds all the accounts
