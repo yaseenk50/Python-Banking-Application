@@ -1,3 +1,4 @@
+#not main file, go to GUI(2) file where code runs from
 import random, string
 
 def create_account_no():
